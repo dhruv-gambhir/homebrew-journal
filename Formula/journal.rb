@@ -2,7 +2,7 @@ class Journal < Formula
   desc "A simple shell script terminal journal app"
   homepage "https://github.com/dhruv-gambhir/journal"
   url "https://github.com/dhruv-gambhir/journal/archive/v1.0.2.tar.gz"
-  sha256 "42b4d368bc731b3aada0d953b3cbbb8bde19285e125452b01bbe1ed5129811db"
+  sha256 "15db1713f08c688c7ae08488f2e1475467342d8d441f57deccdbb62d9d40afc5"
   version "1.0.2"
 
   def install
